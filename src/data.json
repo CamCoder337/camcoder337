@@ -1,10 +1,19 @@
-[
-  {
-  "id":1,
-  "name": "Amazing test drive",
-  },
-  {
-  "id":2,
-  "name": "Looks Like Working fine dude !!",
-  }
-]
+{
+  "title": "Mon application Next.js",
+  "description": "Une application de démonstration construite avec Next.js",
+  "features": [
+    "Routage dynamique",
+    "Génération de site statique",
+    "Intégration de données externes"
+  ],
+  "contributors": [
+    {
+      "name": "John Doe",
+      "github": "https://github.com/johndoe"
+    },
+    {
+      "name": "Jane Smith",
+      "github": "https://github.com/janesmith"
+    }
+  ]
+}
