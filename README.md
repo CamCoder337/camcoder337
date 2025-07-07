@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 🤔 I’m looking for help with [django-rest-api](https://github.com/CamCoder337/django-rest-api)
+- 🤔 I’m looking for help with [django-boilderplate](https://github.com/CamCoder337/django-boilerplate/)
 
-- 💬 Ask me about **Django, Flutter, Java, Javascript**
+- 💬 Ask me about **Django, Flutter, Spring, NextJS**
 
 - 📫 How to reach me: **camcoder337@gmail.com**
 
