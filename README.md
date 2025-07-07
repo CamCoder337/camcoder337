@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/camcoder337" target="blank"><img src="https://img.shields.io/twitter/follow/camcoder337?logo=twitter&style=for-the-badge" alt="camcoder337" /></a> </p>
 
-- 🔭 I’m currently working on [django-rest-api](https://github.com/CamCoder337/django-rest-api)
+- 🔭 I’m currently working on [django-boilderplate](https://github.com/CamCoder337/django-boilerplate/)
 
 - 🌱 I’m currently learning **NextJs**
 
