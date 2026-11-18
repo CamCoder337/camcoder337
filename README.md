@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Fred Tchiadeu</h1>
-<h3 align="center">A computer science student with a passion for development, I possess strong social and interpersonal skills. My proficiencies span a broad spectrum, including mobile development, web development, video game design, databases, and embedded systems. Furthermore, I am highly adaptable and proactive in the execution of my projects.</h3>
+<h3 align="center">Software Engineer with a passion for backend development, QA automation, and scalable architecture. Graduate from UCAC-ICAM with a Master of Engineering in IT Engineering, I bring strong technical and interpersonal skills, spanning full-stack web development, mobile apps, and DevOps workflows. Adaptable and proactive in all my projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camcoder337&label=Profile%20views&color=0e75b6&style=flat" alt="camcoder337" /> </p>
 
